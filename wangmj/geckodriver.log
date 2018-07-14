@@ -1,0 +1,100 @@
+1505741761218	geckodriver	INFO	Listening on 127.0.0.1:2162
+1505741775710	geckodriver	INFO	Listening on 127.0.0.1:2169
+1505742874994	geckodriver	INFO	Listening on 127.0.0.1:2897
+1505742988057	geckodriver	INFO	Listening on 127.0.0.1:2918
+1505743059059	geckodriver	INFO	Listening on 127.0.0.1:2968
+1505744896578	geckodriver	INFO	Listening on 127.0.0.1:3214
+1505744975368	geckodriver	INFO	Listening on 127.0.0.1:3244
+1505745159306	geckodriver	INFO	Listening on 127.0.0.1:3498
+1505745161314	mozprofile::profile	INFO	Using profile path C:\Users\wangmj\AppData\Local\Temp\rust_mozprofile.wFn4dTJWwDVM
+1505745161319	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1505745161355	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3518
+1505745161730	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[10884] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[10884] WARNING: Unable to create pipe named "6932.3.2079038843\402282884" in client mode.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wangmj\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505745227802	geckodriver	INFO	Listening on 127.0.0.1:3618
+1505745229821	mozprofile::profile	INFO	Using profile path C:\Users\wangmj\AppData\Local\Temp\rust_mozprofile.iG3yY1gsXpPa
+1505745229834	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1505745229876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3625
+1505745230361	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[8788] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8788] WARNING: Unable to create pipe named "3524.3.2005486648\1259443802" in client mode.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[10824] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[10824] WARNING: Unable to create pipe named "3524.13.1994326348\2098063677" in client mode.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wangmj\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505745933123	geckodriver	INFO	Listening on 127.0.0.1:1685
+1505745935091	mozprofile::profile	INFO	Using profile path C:\Users\wangmj\AppData\Local\Temp\rust_mozprofile.Y0j4bBSxYq7C
+1505745935091	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1505745935154	geckodriver::marionette	INFO	Connecting to Marionette on localhost:1691
+1505745935464	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+[8716] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8716] WARNING: Unable to create pipe named "8772.3.1474575070\1603196713" in client mode.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[8936] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8936] WARNING: Unable to create pipe named "8772.13.1084223521\710880340" in client mode.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wangmj\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\wangmj\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[GPU 8084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[GPU 8084] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\wangmj\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/SanityTest.js, line 284: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+[9476] WARNING: failed to create pipe: 0: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[9476] WARNING: Unable to create pipe named "6852.3.588958424\2075674675" in client mode.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wangmj\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+1505746026864	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 5124] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505746584996	geckodriver	INFO	Listening on 127.0.0.1:3345
+1505746587005	mozprofile::profile	INFO	Using profile path C:\Users\wangmj\AppData\Local\Temp\rust_mozprofile.Wgu1hWzM6Q4O
+1505746587012	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1505746587061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3360
+1505746587931	Marionette	INFO	Listening on port 3360
+1505746588407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505746650762	geckodriver	INFO	Listening on 127.0.0.1:3610
+1505746652797	mozprofile::profile	INFO	Using profile path C:\Users\wangmj\AppData\Local\Temp\rust_mozprofile.1RS5tlACUKEi
+1505746652810	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1505746652866	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3621
+JavaScript error: resource://gre/components/SanityTest.js, line 285: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
+1505746653911	Marionette	INFO	Listening on port 3621
+1505746654428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lecuntao.com/data/resource/js/dialog/dialog.js?_=1505746693640, line 37: TypeError: _dialog_js_path is undefined
+1505746721555	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1505746729686	geckodriver	INFO	Listening on 127.0.0.1:3948
+1505746731700	mozprofile::profile	INFO	Using profile path C:\Users\wangmj\AppData\Local\Temp\rust_mozprofile.kIHovcFDbbB3
+1505746731713	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1505746731770	geckodriver::marionette	INFO	Connecting to Marionette on localhost:3958
+1505746732938	Marionette	INFO	Listening on port 3958
+1505746733473	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
